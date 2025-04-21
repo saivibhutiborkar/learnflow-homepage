@@ -1,0 +1,7 @@
+cd /path/to/learnflow-homepage
+cd /path/to/learnflow-homepage
+git init
+git remote add origin https://github.com/saivibhutiborkar/learnflow-homepage.git
+git add .
+git commit -m "Initial commit with LearnFlow homepage MVP"
+git push -u origin master
